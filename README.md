@@ -32,7 +32,7 @@ The application exposes:
 * a WebSocket endpoint (/ws) for real-time communication.
 
 <p align="center" width="100%">
-    <img src="https://github.com/Miklakapi/shopping_helper/blob/master/README_IMAGES/Demo.gif"> 
+    <img src="https://github.com/Miklakapi/go-websockets/blob/main/README_IMAGES/Demo.gif"> 
 </p>
 
 ## Technologies
